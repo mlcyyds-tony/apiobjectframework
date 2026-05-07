@@ -1,0 +1,12 @@
+buyerName:
+- shamo
+- shamo123
+buyerPassword:
+- shamo123
+- '123456'
+captcha: '1512'
+managerName: admin
+managerPassword: abc111
+mobile_code: '908908'
+sellerName: shamoseller
+sellerPassword: '123456'
